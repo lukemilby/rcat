@@ -1,0 +1,12 @@
+/Users/bear/go/src/github.com/lukemilby/rcat/target/debug/deps/rand_core-94e49d9c36c09871.rmeta: /Users/bear/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/lib.rs /Users/bear/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/block.rs /Users/bear/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/error.rs /Users/bear/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/impls.rs /Users/bear/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/le.rs /Users/bear/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/os.rs
+
+/Users/bear/go/src/github.com/lukemilby/rcat/target/debug/deps/librand_core-94e49d9c36c09871.rlib: /Users/bear/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/lib.rs /Users/bear/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/block.rs /Users/bear/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/error.rs /Users/bear/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/impls.rs /Users/bear/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/le.rs /Users/bear/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/os.rs
+
+/Users/bear/go/src/github.com/lukemilby/rcat/target/debug/deps/rand_core-94e49d9c36c09871.d: /Users/bear/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/lib.rs /Users/bear/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/block.rs /Users/bear/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/error.rs /Users/bear/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/impls.rs /Users/bear/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/le.rs /Users/bear/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/os.rs
+
+/Users/bear/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/lib.rs:
+/Users/bear/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/block.rs:
+/Users/bear/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/error.rs:
+/Users/bear/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/impls.rs:
+/Users/bear/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/le.rs:
+/Users/bear/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/os.rs:
